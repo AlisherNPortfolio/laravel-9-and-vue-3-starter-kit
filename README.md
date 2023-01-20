@@ -14,4 +14,4 @@ In order to run the project do the followings:
 
 ## Adding roles and permissions
 
-Update `database/seeders/RolePermissionSeeder.php` file content. To add roles and permissions go to spatie laravel permissions [documentation](https://spatie.be/docs/laravel-permission/v5/introduction).
+Update `database/seeders/RolePermissionSeeder.php` file content. To get more information about roles and permissions go to spatie laravel permissions [documentation](https://spatie.be/docs/laravel-permission/v5/introduction).
